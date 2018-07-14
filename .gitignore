@@ -33,4 +33,7 @@
 
 # Code Blocks
 *.depend  
-*.layout 
+*.layout
+
+# MacOS
+.DS_Store 
